@@ -1,5 +1,5 @@
 interface RequestTye{
-    open
+
 }
 
 const HoveredCategoryMenu =()=>{
